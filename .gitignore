@@ -4,3 +4,4 @@
 bin/
 src/.DS_Store
 target/
+test-output/
